@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @kurokazep
-- 👀 I'm interested in price action
-- ⚡ Fun fact: Nothing....
+- 👀 I code just for fun
